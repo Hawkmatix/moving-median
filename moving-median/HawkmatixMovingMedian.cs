@@ -2,7 +2,7 @@
  * Hawkmatix Moving Median 1.0.0.1
  * Official project page: http://www.hawkmatix.com/moving-median.html
  *
- * Copyright 2012, 2013 Andrew Hawkins
+ * Copyright (C) 2012, 2013 Andrew Hawkins
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published by
